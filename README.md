@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JaredWillets
-- 👀 I’m interested in machine learning and creating productivity software
-- 🌱 I’m currently learning more low level programming languages
-- 💞️ I’m looking to collaborate on a VSCode extension or machine learning model
+- 👀 I’m interested in developing productivity and entertainment software
+- 🌱 I’m currently learning more about computer engineering and low-level programming
+- 💞️ I’m looking to collaborate on any programs
 - 📫 You can reach me personally at willetsjared@gmail.com
 
 <!---
