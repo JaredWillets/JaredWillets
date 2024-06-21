@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JaredWillets
-- 👀 I’m interested in developing productivity, entertainment, and educational software
-- 🌱 I'm currently trying to grow my reputation and establish a web design business
+- 👀 I’m interested in developing productivity, entertainment, and educational software.
+- 🌱 I'm currently learning more about many different technologies.
 - 📫 You can reach me personally at willetsjared@gmail.com
 
 <!---
