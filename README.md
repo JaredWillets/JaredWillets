@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @JaredWillets
 - 👀 I’m interested in developing productivity, entertainment, and educational software.
-- 🌱 🌱 I'm currently expanding my low-level knowledge and developing mobile apps.
+- 🌱 I'm currently expanding my low-level knowledge and developing mobile apps.
 - 📫 You can reach me at [jared@willets.dev](mailto:jared@willets.dev)
